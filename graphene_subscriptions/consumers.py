@@ -96,3 +96,4 @@ class GraphqlSubscriptionConsumer(SyncConsumer):
                 "text": json.dumps(response),
             }
         )
+
